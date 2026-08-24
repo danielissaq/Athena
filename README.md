@@ -4,7 +4,7 @@
 > **Room:** Athena
 > **Difficulty:** Medium
 > **Target:** Linux
-> **Objective:** Obtain user and root access through enumeration, web command injection, privilege escalation, and kernel-module abuse.
+> **Objective:** Obtain user and root access through enumeration, web command injection, privilege escalation, and kernel module abuse.
 
 ---
 
