@@ -44,7 +44,7 @@
 
 # 1. Introduction
 
-Athena is a Linux penetration-testing lab from TryHackMe.
+Athena is a Linux penetration testing lab from TryHackMe.
 
 The machine exposes several services, including:
 
@@ -57,7 +57,7 @@ The eventual compromise involves multiple stages rather than a single vulnerabil
 1. Enumerate exposed services.
 2. Enumerate an anonymous SMB share.
 3. Discover information pointing toward a hidden web application.
-4. Identify a command-injection vulnerability in the application's ping functionality.
+4. Identify a command injection vulnerability in the application's ping functionality.
 5. Bypass an incomplete blacklist using a newline character.
 6. Execute commands as `www-data`.
 7. Obtain an interactive shell.
